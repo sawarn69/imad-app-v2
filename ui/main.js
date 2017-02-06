@@ -6,5 +6,5 @@ element.innerHTML='New value';
 // move an image
 var img=document.getElementById('madi');
 img.onclick=function() {
-    img.style.marginrightt='100px';
+    img.style.marginright='100px';
 };
